@@ -118,7 +118,7 @@ link = "plugins/google-map/gmap.js"
 enable = true
 preloader = ""
 [params.search]
-enable = true
+enable = false
 [[params.social]]
 icon = "ion-social-googleplus-outline"
 link = "#"
